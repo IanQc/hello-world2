@@ -1,5 +1,5 @@
 
-##Ce qui m'intéresse dans le programme TIM
+##Ce qui *m'intéresse* dans le programme TIM
 
 * J'ai choisi la technique d'intégration multimédia car on apprend et utilise tout le multimédia, ce qui me permet de savoir ce que j'aime faire ainsi que de découvrir ce que je veux vraiment faire plus tard.
 * Ce qui m'intéresse le plus dans la technique c'est les effets visuels comme les explosions dans les films mais surtout les scènes d'espace dans les films de science-fiction ou dans les cinématiques des grands jeux d'actions comme **Halo** ou **Star Wars**.
