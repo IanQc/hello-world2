@@ -6,4 +6,4 @@
 * Évidemment ce n'est juste sa qui m'intéresse dans TIM, j'aimerais vaiment apprendre comment faire des jeux et des animations de vr.
 * Finalement je pense bien que les cours d'effets sonores seront vraiment intéressent et m'aideront dans le futur pour mes projets futur.
 * Comme métier je vise de travailler dans la cinématopgraphie en effets spéciaux dans les films de science-fictions, évidemment sa peut changer d'ici-là.
-🦨Ps: J'aime pas le dessin a main et faire des sites web
+🦨Ps: J'aime pas le dessin a main et faire des sites **web**
